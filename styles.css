@@ -202,6 +202,54 @@ span {
     font-weight: 700;
 }
 
+.holiday-section{
+    text-align: center;
+
+}
+
+.head-holiday{
+    color: #070211;
+font-size: 24px;
+font-weight: 500;
+}
+
+.middle-holiday{
+    color: #070211;
+font-size: 72px;
+font-weight: 900;
+}
+
+.red-span{
+    color: #F00;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+
+}
+.girl-image{
+    display: flex;
+    justify-content: end;
+    position: relative;
+
+
+}
+.sticky-image{
+    position: absolute;
+    left: 666px;
+    top: 100px;
+
+}
+.orange-background{
+    width:1230px;
+    position: relative;
+
+}
+.gift-box{
+    position: absolute;
+    bottom: 12px;
+}
+
+
 .portfolio {
     max-width: 1200px;
     height: 600px;
